@@ -1,18 +1,31 @@
 # Fraud-Detection-Software-Analysis-
 
 <h2>Description</h2>
-Using SQL I analysed the performance of a fraud detection software on a banks data. I then linked the SQL server to PowerBI to visualise the insights for presentation. This repository will not showcase all the SQL querys that went into the project but samples to demonstrate capability. 
+This project evaluates the performance of a fraud detection software using real-world banking data. By leveraging SQL for in-depth analysis and Power BI for data visualization, I extracted critical insights into the effectiveness of fraud detection mechanisms. Please see files for all queries and tables or see below for project sample walkthrough
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Key Features Used</h2>
 
-- <b>SQLite</b> 
+•	SQL-Based Analysis – Queried and analysed banking transactions to assess fraud detection accuracy.
+
+•	 Database Management – Utilized SQLite and DBeaver to manage and manipulate large datasets.
+
+•	Power BI Integration – Connected SQL Server to Power BI to create dynamic dashboards for data-driven insights.
+
+•	Fraud Trends & Performance Metrics – Identified patterns, false positives, and system efficiency in detecting fraudulent activities.
 
 
 <h2>Software Used </h2>
 
-- <b>DBeaver and PowerBI</b> 
+Languages & Utilities: SQL (SQLite)\
+Software: DBeaver, Power BI
+
+<h2>Notes</h2>
+
+This repository contains sample SQL queries that demonstrate my ability to work with databases, analyze data efficiently, and integrate insights into interactive visual reports.
+
+Skills demonstrated: Data Analysis, SQL Query Optimization, Data Visualization, Fraud Detection Metrics
 
 <h2>Project walk-through:</h2>
 <p align="center">
