@@ -1,0 +1,1 @@
+SELECT * FROM missing_data_summary;
