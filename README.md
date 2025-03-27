@@ -23,7 +23,7 @@ Software: DBeaver, Power BI
 
 <h2>Notes</h2>
 
-This repository contains sample SQL queries that demonstrate my ability to work with databases, analyze data efficiently, and integrate insights into interactive visual reports.
+This repository contains sample SQL queries that demonstrate my ability to work with databases, analyse data efficiently, and integrate insights into interactive visual reports.
 
 Skills demonstrated: Data Analysis, SQL Query Optimization, Data Visualization, Fraud Detection Metrics
 
