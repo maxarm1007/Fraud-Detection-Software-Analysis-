@@ -1,4 +1,4 @@
-# Fraud-Detection-Software-Analysis-
+<h1>Fraud-Detection-Software-Analysis</h1>
 
 <h2>Description</h2>
 This project evaluates the performance of a fraud detection software using real-world banking data. By leveraging SQL for in-depth analysis and Power BI for data visualization, I extracted critical insights into the effectiveness of fraud detection mechanisms. Please see files for all queries and tables or see below for project sample walkthrough
